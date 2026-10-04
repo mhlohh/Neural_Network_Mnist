@@ -3,6 +3,9 @@
 This document turns the whiteboard notes into a compact description of a
 fully connected neural network for classifying handwritten MNIST digits.
 
+![Alt text](nnad.png)
+
+
 ## 1. Image and dataset representation
 
 Each MNIST image is a grayscale image of size **28 × 28** pixels. Flattening
